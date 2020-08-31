@@ -20,7 +20,7 @@ import (
 	"github.com/mitchellh/mapstructure"
 	"github.com/pkg/errors"
 	"github.com/spf13/cast"
-	"github.com/ungerik/go-dry"
+	"github.com/xelaj/go-dry"
 	"github.com/xelaj/errs"
 	"github.com/xelaj/v"
 )

@@ -3,8 +3,8 @@ package simplest
 import (
 	"github.com/joho/godotenv"
 	"github.com/k0kubun/pp"
-	"github.com/ungerik/go-dry"
 	"github.com/xelaj/configo"
+	"github.com/xelaj/go-dry"
 )
 
 type AppConfig struct {

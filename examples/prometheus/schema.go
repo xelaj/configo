@@ -8,7 +8,7 @@ import (
 
 	"github.com/joho/godotenv"
 	"github.com/k0kubun/pp"
-	"github.com/ungerik/go-dry"
+	"github.com/xelaj/go-dry"
 	"github.com/xelaj/configo"
 )
 
